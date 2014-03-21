@@ -1,12 +1,4 @@
 anewco
 ======
 
-Test_candidature
-
-mkdir ~/Hello-World
-
-cd ~/Hello-World
-
-git init
-
-touch README
+Projet portant sur le test de candidature pour un poste de développeur informatique.
